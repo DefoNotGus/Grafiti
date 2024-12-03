@@ -1,6 +1,6 @@
 # Grafiti - The Simplest Background Changer Solution
 
-**Grafiti** is your go-to solution for quickly and effortlessly changing your desktop background to your favourite photo. Simple, intuitive, and hassle-free.
+**Grafiti** is the simplest background changer solution for windows. 
 
 ## How to Use
 
@@ -27,4 +27,4 @@
 
 ## Credits
 
-Developed with 💡 by **Gustavo R**.  
+Developed💡 by **Gustavo R**.  
